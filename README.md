@@ -1,4 +1,4 @@
-# Auth App — M5.4S2
+# Auth App HU2
 
 React + TypeScript project implementing modular login, a CRUD class with HTTP-like logs, and a method decorator.
 
